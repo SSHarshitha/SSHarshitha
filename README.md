@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harshitha 👋</h1>
+<h1 align="center"> Hi, I'm Harshitha 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&color=F77D26&center=true&width=600&height=50&lines=Python+Developer;Front-End+Enthusiast;AI-ML+savvy" alt="Typing SVG" />
