@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harshitha 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&color=F77D26&center=true&width=600&height=50&lines=Python+Developer;Java+Developer;Front-End+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&color=F77D26&center=true&width=600&height=50&lines=Python+Developer;Front-End+Enthusiast;AI-ML+savvy" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 ### Front-End Development
